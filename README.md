@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aayushi1908
-- 👀 I’m highly interested in Machine Learning & Deep Learning algorithms!
+- 👀 I’m passionate for Web Development and Machine Learning algorithms!
 - 🌱 I’m currently learning DSA & Problem Solving.
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 
